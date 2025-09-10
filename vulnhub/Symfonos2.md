@@ -1,5 +1,17 @@
 # Symfonos 2
 ___
+
+**Key Learning Objectives:**
+
+✅ Network Reconnaissance and Service Enumeration
+✅ SMB Enumeration
+✅ FTP Vulnerability Exploitation
+✅ Password Hash Cracking
+✅ Web Application Security (LibreNMS RCE)
+✅ Linux Privilege Escalation via MySQL
+
+---
+
 ### Phase 1: Reconnaissance
 
 Start with an nmap port scan to identify available services:
