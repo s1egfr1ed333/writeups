@@ -1,9 +1,5 @@
 # Election
 
-## Executive Summary
-
-This report documents the penetration testing assessment of the "Election" VulnHub virtual machine. The assessment successfully achieved full system compromise through a combination of web enumeration, information disclosure vulnerabilities, and privilege escalation via a known CVE.
-
 **Key Findings:**
 - Information leakage through exposed log files
 - Weak credential management
